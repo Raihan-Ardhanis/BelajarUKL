@@ -116,19 +116,19 @@ Berikut beberapa hasil uji API melalui Postman yang menunjukkan program bekerja 
 
 🔹 Login 
 
-![Login Admin](./screenshots/login.png)
+![Login Admin](./foto/login.png)
 
 🔹 Tambah User
 
-![Tambah User](./screenshots/register.png)
+![Tambah User](./foto/register.png)
 
 🔹 Input Presensi
 
-![Input Presensi](./screenshots/presensi.png)
+![Input Presensi](./foto/presensi.png)
 
 🔹 Lihat Rekap Bulanan
 
-![Rekap Bulanan](./screenshots/recap_bulanan.png)
+![Rekap Bulanan](./foto/recap_bulanan.png)
 
 👨‍💻 Identitas Pengembang
 Nama	        Kelas	    Sekolah	            Tahun
